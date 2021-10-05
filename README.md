@@ -16,7 +16,7 @@ This paper proposes a safe learning approach for voltage control. We prove that 
 
 
 # Framework for the Decentralized Safe RL Approach
-<img src="/structure_safeRL.png" height="400px" width="500px" >
+<img src="/structure_safeRL.png" height="300px" width="400px" >
 
 # Language and Dependencies
 All code are implemented in Python. Data for the power system is imported from MATLAB as 'TestCase33.mat'. We   use   TensorFlow   2.0   framework   to   build   the   reinforcement  learning  environment.
